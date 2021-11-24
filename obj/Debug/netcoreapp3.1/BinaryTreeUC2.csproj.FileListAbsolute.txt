@@ -1,0 +1,13 @@
+C:\Users\Bahulya\source\repos\BinaryTreeUC2\bin\Debug\netcoreapp3.1\BinaryTreeUC2.exe
+C:\Users\Bahulya\source\repos\BinaryTreeUC2\bin\Debug\netcoreapp3.1\BinaryTreeUC2.deps.json
+C:\Users\Bahulya\source\repos\BinaryTreeUC2\bin\Debug\netcoreapp3.1\BinaryTreeUC2.runtimeconfig.json
+C:\Users\Bahulya\source\repos\BinaryTreeUC2\bin\Debug\netcoreapp3.1\BinaryTreeUC2.runtimeconfig.dev.json
+C:\Users\Bahulya\source\repos\BinaryTreeUC2\bin\Debug\netcoreapp3.1\BinaryTreeUC2.dll
+C:\Users\Bahulya\source\repos\BinaryTreeUC2\bin\Debug\netcoreapp3.1\BinaryTreeUC2.pdb
+C:\Users\Bahulya\source\repos\BinaryTreeUC2\obj\Debug\netcoreapp3.1\BinaryTreeUC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bahulya\source\repos\BinaryTreeUC2\obj\Debug\netcoreapp3.1\BinaryTreeUC2.AssemblyInfoInputs.cache
+C:\Users\Bahulya\source\repos\BinaryTreeUC2\obj\Debug\netcoreapp3.1\BinaryTreeUC2.AssemblyInfo.cs
+C:\Users\Bahulya\source\repos\BinaryTreeUC2\obj\Debug\netcoreapp3.1\BinaryTreeUC2.csproj.CoreCompileInputs.cache
+C:\Users\Bahulya\source\repos\BinaryTreeUC2\obj\Debug\netcoreapp3.1\BinaryTreeUC2.dll
+C:\Users\Bahulya\source\repos\BinaryTreeUC2\obj\Debug\netcoreapp3.1\BinaryTreeUC2.pdb
+C:\Users\Bahulya\source\repos\BinaryTreeUC2\obj\Debug\netcoreapp3.1\BinaryTreeUC2.genruntimeconfig.cache
